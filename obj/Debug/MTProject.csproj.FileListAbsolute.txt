@@ -1,0 +1,16 @@
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\MTProject\bin\Debug\MTProject.exe.config
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\MTProject\bin\Debug\MTProject.exe
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\MTProject\bin\Debug\MTProject.pdb
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\MTProject\obj\Debug\MTProject.csproj.AssemblyReference.cache
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\MTProject\obj\Debug\MTProject.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\MTProject\obj\Debug\MTProject.exe
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\MTProject\obj\Debug\MTProject.pdb
+C:\Users\Danny\Desktop\вхат\MTProject\bin\Debug\MTProject.exe.config
+C:\Users\Danny\Desktop\вхат\MTProject\bin\Debug\MTProject.exe
+C:\Users\Danny\Desktop\вхат\MTProject\bin\Debug\MTProject.pdb
+C:\Users\Danny\Desktop\вхат\MTProject\obj\Debug\MTProject.csproj.AssemblyReference.cache
+C:\Users\Danny\Desktop\вхат\MTProject\obj\Debug\MTProject.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\вхат\MTProject\obj\Debug\MTProject.exe
+C:\Users\Danny\Desktop\вхат\MTProject\obj\Debug\MTProject.pdb
+C:\Users\Lenovo\Desktop\MTProject\obj\Debug\MTProject.exe
+C:\Users\Lenovo\Desktop\MTProject\obj\Debug\MTProject.pdb

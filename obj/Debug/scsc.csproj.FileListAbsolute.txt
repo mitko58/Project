@@ -1,0 +1,7 @@
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\C#\SharpDevelop\obj\Debug\scsc.csproj.AssemblyReference.cache
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\C#\SharpDevelop\obj\Debug\scsc.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\C#\SharpDevelop\bin\Debug\MTProject.exe.config
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\C#\SharpDevelop\bin\Debug\MTProject.exe
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\C#\SharpDevelop\bin\Debug\MTProject.pdb
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\C#\SharpDevelop\obj\Debug\MTProject.exe
+C:\Users\Danny\Desktop\mt-scsc-2021-2022\C#\SharpDevelop\obj\Debug\MTProject.pdb
